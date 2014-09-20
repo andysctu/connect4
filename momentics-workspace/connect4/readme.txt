@@ -1,4 +1,4 @@
-Kakel - Dynamic UI
+Connect 4 - Dynamic UI
 
 ========================================================================
 Sample Description.
@@ -10,6 +10,8 @@ game board and logics is handled in C++.
 You will learn how to:
 - Load part of the UI in QML and part of it in C++.
 - Dynamically change the part loaded in C++.
+
+*Based on the kakel example
  
  
 ========================================================================
